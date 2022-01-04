@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memoria.DisciplesLiberation", "Memoria.DisciplesLiberation\Memoria.DisciplesLiberation.csproj", "{7CF67936-43E7-44A6-AF1F-819B5475C216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Liberation|Any CPU = FF1|Any CPU
+		All|Any CPU = All|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CF67936-43E7-44A6-AF1F-819B5475C216}.Liberation|Any CPU.ActiveCfg = Liberation|Any CPU
+		{7CF67936-43E7-44A6-AF1F-819B5475C216}.Liberation|Any CPU.Build.0 = Liberation|Any CPU
+		{7CF67936-43E7-44A6-AF1F-819B5475C216}.All|Any CPU.ActiveCfg = All|Any CPU
+		{7CF67936-43E7-44A6-AF1F-819B5475C216}.All|Any CPU.Build.0 = All|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A4E9FB0-B447-4A73-921A-0593BC2398C1}
+	EndGlobalSection
+EndGlobal
