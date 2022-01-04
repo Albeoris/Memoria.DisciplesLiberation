@@ -1,4 +1,4 @@
-# Memoria FF PR
+# Memoria Disciples Liberation
 This is a small modification that makes gameplay of [Disciples: Liberation](https://store.steampowered.com/app/1287840/Disciples_Liberation/) more enjoyable. 
 
 ## Installation:
