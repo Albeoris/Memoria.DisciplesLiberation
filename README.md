@@ -2,11 +2,8 @@
 This is a small modification that makes gameplay of [Disciples: Liberation](https://store.steampowered.com/app/1287840/Disciples_Liberation/) more enjoyable. 
 
 ## Installation:
-- Unpack [BepInEx Loader x64 6.0.0-be.401](https://github.com/Albeoris/Memoria.FFPR/releases/download/v2021.08.05/Loader_v2021.08.05.zip) into the game folder.
-- Unpack the archives into the game folder:
-    - [FF1](https://github.com/Albeoris/Memoria.FFPR/releases/download/v2021.08.05/FF1_v2021.08.05.zip)
-    - [FF2](https://github.com/Albeoris/Memoria.FFPR/releases/download/v2021.08.05/FF2_v2021.08.05.zip)
-    - [FF3](https://github.com/Albeoris/Memoria.FFPR/releases/download/v2021.08.05/FF3_v2021.08.05.zip)
+- Unpack [BepInEx_UnityIL2CPP_x64_39f6bf8_6.0.0-be.534.zip](https://github.com/Albeoris/Memoria.DisciplesLiberation/releases/download/v2022.01.05/BepInEx_UnityIL2CPP_x64_39f6bf8_6.0.0-be.534.zip) into the game folder.
+- Unpack [Memoria.DisciplesLiberation.zip](https://github.com/Albeoris/Memoria.DisciplesLiberation/releases/download/v2022.01.05/Memoria.DisciplesLiberation.zip) into the game folder.
 
 If you are already using BepInEx to load other mods, use the most recent version of the loader.
 
@@ -18,7 +15,7 @@ If you are already using BepInEx to load other mods, use the most recent version
 
 ## Configuration:
 
-- Edit file `$GameFolder$\BepInEx\config\Memoria.DisciplesLiberation.cfg`
+- Edit file `$GameFolder$\BepInEx\config\Memoria.DisciplesLiberation\$Feature$.cfg`
 
 
 ![screen](https://i.imgur.com/BaRmI6F.png)
