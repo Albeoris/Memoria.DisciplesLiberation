@@ -7,6 +7,10 @@ This is a small modification that makes gameplay of [Disciples: Liberation](http
 
 If you are already using BepInEx to load other mods, use the most recent version of the loader.
 
+## Deinstalation:
+- To remove the mod - delete $GameFolder$\BepInEx\plugins\Memoria.DisciplesLiberation.dll
+- To remove the mod launcer - delete $GameFolder$\winhttp.dll
+
 ## Features:
 
 - You can increase game speed (Default Key: F1).
@@ -15,7 +19,16 @@ If you are already using BepInEx to load other mods, use the most recent version
 
 ## Configuration:
 
-- Edit file `$GameFolder$\BepInEx\config\Memoria.DisciplesLiberation\$Feature$.cfg`
+1. Start the game first.
+2. Wait, the first launch will take some time.
+3. Features that are enabled by default (for example, increasing the speed of the game) will already work.
+4. Close the game and edit the configuration files that appear: `$GameFolder$\BepInEx\config\Memoria.DisciplesLiberation\$Feature$.cfg`
+
+## Troubleshooting:
+
+- Share unity logs: %appdata%\..\LocalLow\Kalypso Media\Disciples Liberation
+- Share mod logs: $GameFolder$\BepInEx\LogOutput.log
+- Create an issue.
 
 
 ![screen](https://i.imgur.com/BaRmI6F.png)
